@@ -3,6 +3,8 @@
  Atualmente estudo Análise e Desenvolvimento de Sistemas na [Cesar School](https://www.cesar.school/).
 
 
+##### Tenho experiência em:
+
 <div style="display: inline_block"><br>
   <div style="display: inline_block"><br>
     <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
