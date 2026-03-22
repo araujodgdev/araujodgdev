@@ -1,6 +1,6 @@
 ### Olá! 👋 Me chamo Douglas, sou um desenvolvedor web full-stack.
 
-Atualmente estudo **Análise e Desenvolvimento de Sistemas** na [Cesar School](https://www.cesar.school/).
+Atualmente estudo **Análise e Desenvolvimento de Sistemas** na [Cesar School](https://www.cesar.school/), e sou dev full-stack na [Web Star Studio](https://www.webstar.studio/pt)
 
 #### Possuo experiência com:
 <div style="display: inline_block">
